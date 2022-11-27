@@ -70,6 +70,5 @@ console.log(me.shoeCount);
   - Console.log your object
 */
 
-
 me.favoriteColor = 'black';
 console.log(me);
